@@ -5,7 +5,7 @@
 
 - ✍ I'm a student of: [Ha Noi University of Science and Technology](HUST).
 
-- 🌱 I’m currently learning **MERN Stack and Deep Learning.**
+- 🌱 I’m currently learning **MERN Stack and GNN.**
 
 
 ## Skills:
